@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+#  About Me 👨‍💻
 Hi, I'm 𝗚𝗮𝗯𝗿𝗶𝗲𝗹— a backend developer from 𝗔𝗿𝗴𝗲𝗻𝘁𝗶𝗻𝗮 🇦🇷<br><br>Currently learning and building with Python, exploring the world of data analytics and backend development.<br><br>🧠 What I enjoy:<br><br>Playing with data <br><br>Automating boring stuff<br><br>Learning new tech tools and stacks<br>
 
 
